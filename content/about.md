@@ -6,39 +6,47 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-This is a Hugo based resume template. You can find the full source code on [GitHub](https://github.com/ojroques/hugo-researcher).
+I am a software engineer with expertise in Java and Kotlin. I can help you to build maintainable and correct software.
+Also, I can assist to establish Agile processes. Feel free to contact me.
 
-## Research Interest
+## Work Experience
+<span><a href=https://inno.tech>Innotech,</a> Saint-Petersburg</span> <i>September 2020 - Present</i>
+* Built internal applications for bank managers. Delivered features in both backend and frontend.
+* Developed microservices: hexagonal architecture, idempotent API, 95% test coverage.
+* Implemented CI/CD pipelines for both backend and frontend.
+* Technologies: Kotlin, Typescript, SpringBoot, PostgreSQL, Kafka, Openshift, React.js, MobX.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+<span><a href=https:https://nexign.com/en>Nexign</a>, Saint-Petersburg</span> <i>September 2019 - Present</i>
+* UFM is a universal financial monitor, a highly loaded (70 million users), low-latency, real-time system for subscribers’ life cycle and accounts receivable.
+* Designed and implemented a backward-compatible data saving mechanism that decreases data loss.
+* Implemented in-memory settings caching. Developed Jolokia JMX statistics.
+* Technologies: Java, Akka, Spring, RabbitMQ, Couchbase, Zookeeper.
 
-## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
+<span><a href=https://alabs.team>Azimut Labs</a>, Almaty</span> <i>February 2019 - August 2019</i>
+* Developed <a href=https:beta.egov.kz>electronic government</a> service of Kazakhstan.
+* Designed and developed dynamic GraphQL API. Implemented full-text ngram search using Elasticsearch.
+* Built CMS for content managers. Implemented event-based interactions.
+* Technologies: Java, Node.js, Typescript, Spring Boot, RabbitMQ, PostgreSQL, Elasticsearch, MongoDB.
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
 
----
+<span><a href=https://p-s.kz>Prime Source</a>, Almaty</span> <i>November 2017 - January 2019</i>
+* Developed online banking: payments, deposits, currency exchange, enterprise service bus integration, built mi- croservices.
+* Delivered features and bugfixes at a high pace.
+* Technologies: Java, Spring Boot, Jenkins, Docker, PostgreSQL.
 
-Here is a blockquote
+## Education
+<span><b>International Information Technology University,</b> </span>
+<i>September 2015 - June 2019</i>  
+<div>Almaty, Kazakhstan </br> Systems of Information Security GPA 3.54</div>
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## Skills
+Name                  | Competence
+----------------------|----------------------------------------------------------------------
+Languages             | English, Russian, Kazakh
+Programming Languages | Java, Kotlin, Javascript, Typescript
+Technologies          | Spring, CI/CD, Docker, RabbitMQ, TeamCity, SQL, NoSQL, React.js, MobX

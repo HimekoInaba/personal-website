@@ -2,23 +2,13 @@
 title = "Contact"
 +++
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Email: [syrym.tussupbekov@gmail.com](mailto:foo@xyz.com)
+* Phone: [+7-999-528-59-41](tel:+7-999-528-59-41)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+* [Telegram](https://t.me/orandakaiu)
+* [Github](https://github.com/HimekoInaba)
+* [Linkedin](https://linkedin.com/in/tussupbekov)
