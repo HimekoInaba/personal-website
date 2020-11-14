@@ -1,5 +1,5 @@
 title = "Syrym Tussupbekov"
-baseURL = "https://example.com"
+baseURL = "https://personal-website-three-theta.vercel.app/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
 enableEmoji = true
