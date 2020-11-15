@@ -1,5 +1,5 @@
 title = "Syrym Tussupbekov"
-baseURL = "https://syrym.vercel.app/"
+baseURL = "https://syrym.pro"
 theme = "researcher"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap", "robotsTXT"]
 enableEmoji = true
